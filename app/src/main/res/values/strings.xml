@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">ExampleBD</string>
+    <!-- Elections -->
+    <string name="election_one"> Elección 1 </string>
+    <string name="election_two"> Elección 2 </string>
+    <string name="election_three"> Elección 3  </string>
+
+    <!-- numerical answer -->
+    <string name="numerical_answer">Respuesta númerica</string>
+    <!-- end survey -->
+    <string name="end_survey">Finalizar</string>
+
+    <!-- Questions election one-->
+    <string name="question_section1_one">¿Que tanto de gusta el futbol?</string>
+    <string name="question_section1_two">¿Si tuvieras  la atención de todo el mundo y de todos sus millones de habitantes, ¿qué mensaje les darías?</string>
+    <string name="question_section1_three">Imagina que tuvieras mucho dinero, pero aún así tú eliges seguir trabajando. ¿Qué trabajo sería ese?</string>
+    <string name="question_section1_four">¿Qué tienes en la nevera ahora mismo?</string>
+    <string name="question_section1_five">¿A qué es lo último que le has dado like en tus redes sociales?</string>
+
+    <!-- Questions election two-->
+    <string name="question_section2_one">¿Cuándo fue la última vez que estuviste cotilleando y encontraste algo que no hubieras deseado?</string>
+    <string name="question_section2_two"> ¿Quieres más a tus mascotas que algún familiar?</string>
+    <string name="question_section2_three"> ¿Quieres más a tus mascotas que algún familiar?</string>
+    <string name="question_section2_four">¿Qué película admira casi todo el mundo y tú no volverías a ver nunca?</string>
+    <string name="question_section2_five">¿Qué causa caritativa debería recibir, según tú, mayor cantidad de fondos?</string>
+
+    <!-- Questions election three-->
+    <string name="question_section3_one">¿Qué es lo primero en que te fijas cuando conoces a una persona?</string>
+    <string name="question_section3_two">¿Si pudieras encerrar a alguien público en una institución mental, a quién sería?</string>
+    <string name="question_section3_three">¿Qué es lo que más te preocupa últimamente?</string>
+    <string name="question_section3_four">¿Qué opinas de la censura? ¿Crees que debería aplicarse en algún momento?</string>
+    <string name="question_section3_five">¿Hay alguien con quién te gustaría volver a ponerte en contacto?</string>
+
+    <!-- Stored Surveys -->
+    <string name="stored_surveys">Ver encuestas almacenadas</string>
+    <string name="graphics"> Ver graficas</string>
+
+    <!-- example date -->
+    <string name="example_date">14-05-2023 10:00 am</string>
+    <!-- back button -->
+    <string name="back_button">Volver atras</string>
+
+    <!-- Confirmation dialog -->
+    <string name="dialog_confirmatio">¿Desea confirmar los resultado?</string>
+
+    <!-- Dialog -->
+    <string name="dialog_confirmation">Confirmar</string>
+    <string name="ok">Ok</string>
+
+    <!-- EditText null -->
+    <string name="is_empty">No dejar respuestas vacias</string>
+    <string name="question_add">Respuestas guardadas correctamente</string>
+    <string name="question_not_save">Ocurrio un error</string>
+    <string name="no_results_yet">No hay resultados aun</string>
+    <string name="survey_not_completed">Encuesta no terminada</string>
+
+
+</resources>
